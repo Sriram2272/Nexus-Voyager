@@ -1,4 +1,4 @@
-# Web-Navigator-AI-Agent
+# “Nexus Voyager – Explore the web with intelligence.”
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://nexuswebagent.netlify.app)
 
