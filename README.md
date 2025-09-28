@@ -65,26 +65,41 @@ We built a fully local AI agent that runs offline using **Ollama models**.
 
 ## 👥 Contribution Details of Each Team Member
 
-**👤 Ashmit — LLM Setup & Instruction Parsing**  
-- Installed and tested Gemma, LLaMA, Granite, Qwen, Smollm, Llava, and BGE-m3 using Ollama  
-- Designed instruction parsing & model selection logic  
-
-**👤 Person 2 — Browser Automation**  
-- Implemented Playwright/Selenium automation  
-- Linked parsed steps with real browser actions  
-- Added error handling & retries  
-
-**👤 Person 3 — Structured Results & Exports**  
-- Built pipeline for structured outputs (tables, CSV, JSON)  
-- Implemented ranking/scoring system  
-
-**👤 Person 4 — User Interface & Model Selector**  
-- Designed UI (search bar, model picker, demo call)  
-- Integrated all Ollama models in a clean interface  
-
-**👤 Person 5 — Post-Call Features & Memory**  
-- Developed transcripts, summaries, and Ask-AI chat  
-- Added memory + transcript search (BGE-m3)  
-- Linked recordings with playback & navigation  
+## 👤 Person 1 — Ashmit (The Architect of Intelligence)  
+- Installed and tested multiple **Ollama models** (small fast ones + large reasoning models).  
+- Built the **instruction parsing layer** to turn plain English queries into step-by-step plans.  
+- Designed **model selection logic** (fast models for speed, large models for accuracy).  
+- Ensured the agent always chooses the **best model for the task**.  
 
 ---
+
+## 👤 Person 2 — Prajithaa (The Voice of Experience)  
+- Designed the **search bar UI with a built-in model picker**, letting users choose which Ollama model to use.  
+- Built the **Demo Call UI** with personas like Health, Education, Skincare, and Diet.  
+- Focused on keeping the design **modern, minimal, and consistent** with NexusAI’s theme.  
+- Made Nexus feel **personal and approachable**, turning it from a tool into an experience.  
+
+---
+
+## 👤 Person 3 — Sriram (The Explorer of the Web)  
+- Implemented **browser automation** using Playwright and Selenium.  
+- Connected AI instructions to real browser actions (search, click, extract, fill forms).  
+- Added **error handling and retries** to prevent failures during automation.  
+- Optimized the pipeline so Nexus works smoothly across different **LLM outputs**.  
+
+---
+
+## 👤 Person 4 — Ansh (The Keeper of Memory)  
+- Developed **transcripts, meeting summaries, and Ask-AI chat** so Nexus could hold conversations beyond one query.  
+- Added **multi-step reasoning and embedding search** for recalling past instructions.  
+- Linked the **recordings panel** with playback and time-code navigation.  
+- Ensured Nexus doesn’t just solve one task but can **learn, remember, and grow** with users.  
+
+---
+
+## 👤 Person 5 — Abhinendra (The Alchemist of Data)  
+- Built the **data pipeline** to clean and organize raw scraped results.  
+- Converted results into **structured formats** (ranked tables, CSV, JSON).  
+- Added **scoring and ranking logic** so answers are meaningful, not random.  
+- Ensured **consistent outputs** across all Ollama models.  
+
