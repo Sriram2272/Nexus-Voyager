@@ -1,4 +1,4 @@
-# 🚀 Web-Navigator-AI-Agent
+# Web-Navigator-AI-Agent
 
 ## 📌 Problem Statement Chosen
 Build an AI Agent that can take natural language instructions and autonomously drive the web on a local computer.
