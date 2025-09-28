@@ -1,5 +1,11 @@
 # Web-Navigator-AI-Agent
 
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://nexuswebagent.netlify.app)
+
+**👉 Try the prototype here:** [https://nexuswebagent.netlify.app](https://nexuswebagent.netlify.app)
+
+---
+
 ## 📌 Problem Statement Chosen
 Build an AI Agent that can take natural language instructions and autonomously drive the web on a local computer.
 
@@ -102,4 +108,3 @@ We built a fully local AI agent that runs offline using **Ollama models**.
 - Converted results into **structured formats** (ranked tables, CSV, JSON).  
 - Added **scoring and ranking logic** so answers are meaningful, not random.  
 - Ensured **consistent outputs** across all Ollama models.  
-
